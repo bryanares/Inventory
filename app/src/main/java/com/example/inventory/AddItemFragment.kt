@@ -104,7 +104,6 @@ class AddItemFragment : Fragment() {
             }
         }
     }
-
     /**
      * Called before fragment is destroyed.
      */
